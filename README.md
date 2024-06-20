@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Pythong, Css, HTML and Javascript
 - 💞️ I’m looking to collaborate on coding!
 - 📫 How to reach me - noahzh52@outlook.com
-- 😄 Pronouns: 
+- 😄 Pronouns: That guy/He/Noah
 - ⚡ Fun fact: I speak Chinese, English, French and a little Spanish.
 - ⚡ Fun fact: I play piano/guitar. I like iceskating and I play a bit of basketball!
 
