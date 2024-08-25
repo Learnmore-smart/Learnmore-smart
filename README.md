@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding!
 - 🌱 I’m currently learning Pythong, Css, HTML and Javascript
 - 💞️ I’m looking to collaborate on coding!
-- 📫 How to reach me - noahzh52@outlook.com or noahzh52@gamil.com
+- 📫 How to reach me - noahzh52@outlook.com or noahzh52@gmail.com
 - 😄 Pronouns: That guy/He/Noah/Learnmore-smart
 - ⚡ Fun fact: I speak English, French, Chinese and a little Spanish.
 - ⚡ Fun fact: I play piano/guitar. I like iceskating and I play a bit of basketball!
