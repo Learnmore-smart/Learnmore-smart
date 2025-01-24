@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Learnmore-smart
 - 👀 I’m interested in coding!
-- 🌱 I’m currently learning Python, Css, HTML and Javascript
+- 🌱 I’m currently building a website using JSX and React with node.js!
 - 💞️ I’m looking to collaborate on coding!
 - 📫 How to reach me - noahzh52@outlook.com or noahzh52@gmail.com
 - 😄 Pronouns: That guy/He/Noah/Learnmore-smart
