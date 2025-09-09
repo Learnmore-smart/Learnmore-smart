@@ -73,7 +73,7 @@ These stats include all my contributions, including those in private repositorie
 You can reach me through the following channels:
 
 -   **Email:** [noahzh52@outlook.com](mailto:noahzh52@outlook.com) or [noahzh52@gmail.com](mailto:noahzh52@gmail.com)
--   **Connect with me:**
+-   **Connect with me:** [https://www.youtube.com/@NoahsPianoJourney?sub_confirmation=1] or [https://x.com/Learnmore_smart] or [https://www.instagram.com/learnmore_smart/]
     <!-- Add your social media links here -->
     <!-- Example: <a href="https://linkedin.com/in/your-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-username" height="30" width="40" /></a> -->
 
