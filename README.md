@@ -52,9 +52,6 @@ These stats include all my contributions, including those in private repositorie
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Learnmore-smart&layout=compact&theme=dracula" alt="Learnmore-smart's Top Languages" />
   </a>
   <br/>
-  <a href="https://github.com/Learnmore-smart">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Learnmore-smart&theme=dracula" alt="Learnmore-smart's Contribution Streak" />
-  </a>
 </div>
 
 ---
