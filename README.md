@@ -44,14 +44,11 @@ Here are some of the technologies and tools I'm proficient with:
 These stats include all my contributions, including those in private repositories and organizations.
 
 <div align="center">
-  <a href="https://github.com/Learnmore-smart">
-    <img src="https://github-readme-stats.vercel.app/api?username=Learnmore-smart&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Learnmore-smart's GitHub Stats (including all commits)" />
-  </a>
-  <br/>
-  <a href="https://github.com/Learnmore-smart">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Learnmore-smart&layout=compact&theme=dracula" alt="Learnmore-smart's Top Languages" />
-  </a>
-  <br/>
+
+[![Learnmore-smart's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Learnmore-smart&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)](https://github.com/Learnmore-smart)
+
+[![Learnmore-smart's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Learnmore-smart&layout=compact&theme=dracula)](https://github.com/Learnmore-smart)
+
 </div>
 
 ---
