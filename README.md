@@ -18,6 +18,8 @@
 Over the past 9 months, I developed and launched LearnX, an intelligent educational platform designed to optimize student exam preparation. 
 * **Core Capabilities:** The platform functions as a personalized Exam Simulator, Private Tutor, and Mistake Killer, allowing users to track performance statistics and predict exam formats.
 * **Launch Video:** View the official [LearnX Launch Video](https://youtu.be/u1BplKvekjc) for a comprehensive overview of the software's capabilities.
+<img width="2879" height="1919" alt="image" src="https://github.com/user-attachments/assets/654ead2c-a962-4599-8195-e58fd3c7d302" />
+<img width="2879" height="1919" alt="image" src="https://github.com/user-attachments/assets/30deff04-377e-479f-8ef8-d9f70cf7c60d" />
 
 **[Noah's Piano Journey](https://www.youtube.com/@NoahsPianoJourney?sub_confirmation=1)**
 Alongside software development, I manage a YouTube channel focused on musical performance and education. I produce piano tutorials and document my musical progress, having cultivated a community of over 6,000 subscribers.
