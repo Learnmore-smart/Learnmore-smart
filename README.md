@@ -1,23 +1,30 @@
 <div align="center">
-  <h1>
-    👋 Hi, I’m Noah (@Learnmore-smart)
-  </h1>
+  <h1>Noah Zhang</h1>
+  <p><strong>Software Developer | Creator of LearnX | Content Creator</strong></p>
+  <p>Montreal, QC, Canada</p>
 </div>
 
 <div align="center">
   <p>
-    I'm a passionate developer currently building a website using JSX, React, and Node.js.
-  </p>
-  <p>
-    I'm always eager to collaborate on exciting coding projects!
+    I am a software developer and a Pure & Applied Science student at Marianopolis College. I specialize in building impactful software, mastering new technologies, and documenting my development journey. I am currently open to collaborating on innovative engineering projects.
   </p>
 </div>
 
 ---
 
-### 🚀 My Tech Stack
+### Projects & Ventures
 
-Here are some of the technologies and tools I'm proficient with:
+**[LearnX.pro](https://learnx.pro)**
+Over the past 9 months, I developed and launched LearnX, an intelligent educational platform designed to optimize student exam preparation. 
+* **Core Capabilities:** The platform functions as a personalized Exam Simulator, Private Tutor, and Mistake Killer, allowing users to track performance statistics and predict exam formats.
+* **Launch Video:** View the official [LearnX Launch Video](https://youtu.be/u1BplKvekjc) for a comprehensive overview of the software's capabilities.
+
+**[Noah's Piano Journey](https://www.youtube.com/@NoahsPianoJourney?sub_confirmation=1)**
+Alongside software development, I manage a YouTube channel focused on musical performance and education. I produce piano tutorials and document my musical progress, having cultivated a community of over 6,000 subscribers.
+
+---
+
+### Technical Skills
 
 <p align="center">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -39,9 +46,7 @@ Here are some of the technologies and tools I'm proficient with:
 
 ---
 
-### 📊 My GitHub Stats
-
-These stats include all my contributions, including those in private repositories and organizations.
+### GitHub Analytics
 
 <div align="center">
 
@@ -53,25 +58,18 @@ These stats include all my contributions, including those in private repositorie
 
 ---
 
-### 😄 About Me
+### Background
 
--   **Pronouns:** That guy / He / Noah / Learnmore-smart
--   **Fun Facts:**
-    -   I speak English, French, Chinese, and a little Spanish.
-    -   I play the piano and guitar, enjoy iceskating, and love basketball!
+-   **Education:** Pure & Applied Science program at Marianopolis College.
+-   **Languages:** Fluent in English, French, and Chinese; conversational in Spanish.
+-   **Interests:** Beyond programming, I am a multi-instrumentalist (piano, guitar, drums) and maintain an active lifestyle through basketball and ice skating. 
 
 ---
 
-### 📫 Get In Touch
+### Contact & Links
 
-You can reach me through the following channels:
-
--   **Email:** [noahzh52@outlook.com](mailto:noahzh52@outlook.com) or [noahzh52@gmail.com](mailto:noahzh52@gmail.com)
--   **Connect with me:** [https://www.youtube.com/@NoahsPianoJourney?sub_confirmation=1] or [https://x.com/Learnmore_smart] or [https://www.instagram.com/learnmore_smart/]
-    <!-- Add your social media links here -->
-    <!-- Example: <a href="https://linkedin.com/in/your-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-username" height="30" width="40" /></a> -->
-
-<!---
-Learnmore-smart/Learnmore-smart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-   **Email:** [noahzh52@outlook.com](mailto:noahzh52@outlook.com) | [noahzh52@gmail.com](mailto:noahzh52@gmail.com)
+-   **LinkedIn:** [Add your LinkedIn URL here]
+-   **YouTube:** [Noah's Piano Journey](https://www.youtube.com/@NoahsPianoJourney?sub_confirmation=1)
+-   **X (Twitter):** [@Learnmore_smart](https://x.com/Learnmore_smart)
+-   **Instagram:** [@learnmore_smart](https://www.instagram.com/learnmore_smart/)
