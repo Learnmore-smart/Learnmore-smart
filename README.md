@@ -20,8 +20,11 @@ Over the past 9 months, I developed and launched LearnX, an intelligent educatio
 * **Launch Video:** View the official [LearnX Launch Video](https://youtu.be/u1BplKvekjc) for a comprehensive overview of the software's capabilities.
 <img width="2879" height="1919" alt="image" src="https://github.com/user-attachments/assets/654ead2c-a962-4599-8195-e58fd3c7d302" />
 
+
+
 **[Noah's Piano Journey](https://www.youtube.com/@NoahsPianoJourney?sub_confirmation=1)**
 Alongside software development, I manage a YouTube channel focused on musical performance and education. I produce piano tutorials and document my musical progress, having cultivated a community of over 6,000 subscribers.
+<img width="2341" height="1595" alt="image" src="https://github.com/user-attachments/assets/c3634cec-04b4-43d1-bf46-307f693b7860" />
 
 ---
 
