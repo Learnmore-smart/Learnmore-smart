@@ -69,7 +69,7 @@ Alongside software development, I manage a YouTube channel focused on musical pe
 ### Contact & Links
 
 -   **Email:** [noahzh52@outlook.com](mailto:noahzh52@outlook.com) | [noahzh52@gmail.com](mailto:noahzh52@gmail.com)
--   **LinkedIn:** [Add your LinkedIn URL here]
+-   **LinkedIn:** [[Noah Zixin Zhang](https://www.linkedin.com/in/noah-zixin-zhang-656a13367/)]
 -   **YouTube:** [Noah's Piano Journey](https://www.youtube.com/@NoahsPianoJourney?sub_confirmation=1)
 -   **X (Twitter):** [@Learnmore_smart](https://x.com/Learnmore_smart)
 -   **Instagram:** [@learnmore_smart](https://www.instagram.com/learnmore_smart/)
