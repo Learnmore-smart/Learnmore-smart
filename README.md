@@ -15,8 +15,9 @@
 ### Projects & Ventures
 
 **[LearnX.pro](https://learnx.pro)**
-Over the past 9 months, I developed and launched LearnX, an intelligent educational platform designed to optimize student exam preparation. 
+Since 2025 June, I developed and launched LearnX, an intelligent educational platform designed to optimize student exam preparation. 
 * **Core Capabilities:** The platform functions as a personalized Exam Simulator, Private Tutor, and Mistake Killer, allowing users to track performance statistics and predict exam formats.
+P.S. We are updating it to become an exam session builder. It will create a learning path for you before your exam, so that by completing the path, you are garanteed for a good grade.
 * **Launch Video:** View the official [LearnX Launch Video](https://youtu.be/u1BplKvekjc) for a comprehensive overview of the software's capabilities.
 <img width="2879" height="1919" alt="image" src="https://github.com/user-attachments/assets/654ead2c-a962-4599-8195-e58fd3c7d302" />
 
