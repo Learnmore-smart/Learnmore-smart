@@ -1,32 +1,30 @@
 <div align="center">
   <h1>Noah Zhang</h1>
-  <p><strong>Software Developer | Creator of LearnX | Content Creator</strong></p>
+  <p><strong>Software Developer | Creator of LearnX and Overtake | Content Creator</strong></p>
   <p>Montreal, QC, Canada</p>
 </div>
 
 <div align="center">
   <p>
-    I am a software developer and a Pure & Applied Science student at Marianopolis College. I specialize in building impactful software, mastering new technologies, and documenting my development journey. I am currently open to collaborating on innovative engineering projects.
+    I am a software developer and a Pure &amp; Applied Science student at Marianopolis College. I specialize in building impactful software, mastering new technologies, and documenting my development journey. I am currently open to collaborating on innovative engineering projects.
   </p>
 </div>
 
 ---
 
-### Projects & Ventures
+### Projects &amp; Ventures
 
-**[LearnX.pro](https://learnx.pro)**
-Since 2025 June, I developed and launched LearnX, an intelligent educational platform designed to optimize student exam preparation. 
-* **Core Capabilities:** The platform functions as a personalized Exam Simulator, Private Tutor, and Mistake Killer, allowing users to track performance statistics and predict exam formats.
-P.S. We are updating it to become an exam session builder. It will create a learning path for you before your exam, so that by completing the path, you are garanteed for a good grade.
-* **Launch Video:** View the official [LearnX Launch Video](https://youtu.be/u1BplKvekjc) for a comprehensive overview of the software's capabilities.
-<img width="1440" height="960" alt="image" src="https://github.com/user-attachments/assets/801de846-d12c-421e-ba8e-0b533333c2d9" />
+**[LearnX](https://www.learnx.pro)**
+Since June 2025 I have been building LearnX, an exam-prep study agent. Upload lecture slides, notes, or PDFs and it builds an Exam Sprint: ordered study units, course-grounded practice, spaced review, and a Final Prediction. The public site is on an early-access waitlist while the product is rebuilt around agents.
+* **Launch Video:** [LearnX Launch Video](https://youtu.be/u1BplKvekjc)
+<img width="1440" height="960" alt="LearnX" src="https://github.com/user-attachments/assets/801de846-d12c-421e-ba8e-0b533333c2d9" />
 
-
-
+**[Overtake](https://overtake.bid)**
+A weekly-reset live ranking board. Indie hackers pay from $1 to overtake a rank (Cover / Featured / Top 10 / Listed). 75% of net bids go into ads promoting ranked projects. Checkout reads like “Overtake #3 for $12”. Not a contest and not a prize pool.
 
 **[Noah's Piano Journey](https://www.youtube.com/@NoahsPianoJourney?sub_confirmation=1)**
 Alongside software development, I manage a YouTube channel focused on musical performance and education. I produce piano tutorials and document my musical progress, having cultivated a community of over 7,000 subscribers.
-<img width="1440" height="960" alt="image" src="https://github.com/user-attachments/assets/e7e73c81-5066-448f-be70-99c0fe303a92" />
+<img width="1440" height="960" alt="Noah's Piano Journey" src="https://github.com/user-attachments/assets/e7e73c81-5066-448f-be70-99c0fe303a92" />
 
 ---
 
@@ -54,16 +52,18 @@ Alongside software development, I manage a YouTube channel focused on musical pe
 
 ### Background
 
--   **Education:** Pure & Applied Science program at Marianopolis College.
+-   **Education:** Pure &amp; Applied Science program at Marianopolis College.
 -   **Languages:** Fluent in English, French, and Chinese; conversational in Spanish.
--   **Interests:** Beyond programming, I am a multi-instrumentalist (piano, guitar, drums) and maintain an active lifestyle through basketball and ice skating. 
+-   **Interests:** Beyond programming, I am a multi-instrumentalist (piano, guitar, drums) and maintain an active lifestyle through basketball and ice skating.
 
 ---
 
-### Contact & Links
+### Contact &amp; Links
 
+-   **Overtake:** [overtake.bid](https://overtake.bid)
+-   **LearnX:** [learnx.pro](https://www.learnx.pro)
 -   **Email:** [noahzh52@outlook.com](mailto:noahzh52@outlook.com) | [noahzh52@gmail.com](mailto:noahzh52@gmail.com)
--   **LinkedIn:** [[Noah Zixin Zhang](https://www.linkedin.com/in/noah-zixin-zhang-656a13367/)]
+-   **LinkedIn:** [Noah Zixin Zhang](https://www.linkedin.com/in/noah-zixin-zhang-656a13367/)
 -   **YouTube:** [Noah's Piano Journey](https://www.youtube.com/@NoahsPianoJourney?sub_confirmation=1)
 -   **X (Twitter):** [@Learnmore_smart](https://x.com/Learnmore_smart)
 -   **Instagram:** [@learnmore_smart](https://www.instagram.com/learnmore_smart/)
